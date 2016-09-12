@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Courser_App4</string>
+    <string name="mFavourites">Favoritos</string>
+    <string name="mContact">Contacto</string>
+    <string name="mAbout">Acerca de</string>
+    <string name="enviar_comentario">Enviar</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="nombre">Nombre</string>
+    <string name="desarrollador">Luis Ignacio G.</string>
+    <string name="comentario">Haznos saber tu opinión</string>
+    <string name="comentario_enviado">"Comentario enviado"</string>
+    <string name="mascotas" >Lista de mascotas</string>
+    <string name="mi_mascota">Mi mascota</string>
+    <string name="Pug">Pug</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mascota_nombre">Mascototas</string>
+</resources>
